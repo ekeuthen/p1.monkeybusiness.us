@@ -1,0 +1,26 @@
+/*Emily Keuthen ekeuthen@gmail.com CSCI E-15 P1 September 2013*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+#nametag {
+	background-color: #3399FF;
+	padding: 50px 20px;
+	margin: 50px 100px;
+	color: white;
+	border-radius: 15px;
+}
+
+#nametag > h1 {
+	letter-spacing: 10px;
+}
+
+#personalinfo{
+	background-color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #333333;
+	padding: 10px;
+	border-radius: 15px;
+}
