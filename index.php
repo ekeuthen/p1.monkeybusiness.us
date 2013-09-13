@@ -4,7 +4,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    		<title>Emily CSCI E-15 P1</title>
-   		<link rel="stylesheet" type="text/css" href="emily.css">
+   		<link rel="stylesheet" type="text/css" href="Emily.css">
   	</head>
   	<body>
 	  	<div id="nametag">
